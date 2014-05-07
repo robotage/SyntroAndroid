@@ -1,0 +1,9 @@
+obj/
+libs/
+bin/
+gen/
+.metadata/
+*~
+*.bin
+*.map
+!.gitignore

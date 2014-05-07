@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SyntroNavView</string>
+    <string name="menu_settings">Settings</string>
+    <string name="gl_version">OpenGL Version</string>
+    <string name="stream_list_header">Available nav streams</string>
+    <string name="stream_list">com.rt.syntronavview.sources</string>
+    <string name="selected_stream">com.rt.syntronavview.selectedsource</string>
+    <string name="saved_stream">savedstream</string>
+    
+</resources>
