@@ -6,4 +6,5 @@ gen/
 *~
 *.bin
 *.map
+.settings
 !.gitignore
